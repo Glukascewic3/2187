@@ -1,2 +1,2 @@
 # 2187
-Hexagonal powers of 3 game
+Play it here: https://glukascewic3.github.io/2187-Hex/
